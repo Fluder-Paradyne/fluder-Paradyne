@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm a developer passionate about containerization,
 
 ## 📊 GitHub Stats
 
-![Fluder-Paradyne's GitHub stats](https://github-readme-stats-l3b1h26nv-fluderparadynes-projects.vercel.app/api?username=Fluder-Paradyne&show_icons=true&theme=dark)
+![Fluder-Paradyne's GitHub stats]([https://github-readme-stats-l3b1h26nv-fluderparadynes-projects.vercel.app/api?username=Fluder-Paradyne&show_icons=true&theme=dark](https://github-readme-stats-git-main-fluderparadynes-projects.vercel.app/api?username=Fluder-Paradyne&show_icons=true&theme=dark))
 
 ## 🤝 Let's Connect
 
